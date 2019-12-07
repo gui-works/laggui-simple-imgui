@@ -1,5 +1,6 @@
 IMGUI DEMONSTRATION -- Sean Barrett, Aug 5 2005 -- Public Domain
 
+![screenshot](./screenshot.png)
 
 OVERVIEW
 
