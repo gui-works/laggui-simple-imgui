@@ -2,6 +2,13 @@ IMGUI DEMONSTRATION -- Sean Barrett, Aug 5 2005 -- Public Domain
 
 ![screenshot](./screenshot.png)
 
+Check out this video by Casey Muratori about imgui: https://www.youtube.com/watch?v=Z1qyvQsjK5Y
+
+[Casey's IMGUI forum](http://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewforum.php?f=10&sid=89c5695d80fb524c72fce0f82ba21008), and some noteworthy posts:
+
+* "[I don't want to have to keep calling DoButton()!](http://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewtopic.php?t=146&sid=89c5695d80fb524c72fce0f82ba21008)"
+* [Atman's tree-view](http://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewtopic.php?t=159&sid=89c5695d80fb524c72fce0f82ba21008)
+
 OVERVIEW
 
 This is a very simple sample application built on top of
